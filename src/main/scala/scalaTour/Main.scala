@@ -1,0 +1,3 @@
+package scalaTour
+
+object HelloWorld {}
