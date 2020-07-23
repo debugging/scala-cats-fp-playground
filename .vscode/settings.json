@@ -1,5 +1,9 @@
 {
   "editor.formatOnSave": true,
+  "files.exclude": {
+    ".bloop/": true,
+    "target/": true,
+  },
   "search.exclude": {
     ".metals/": true,
     ".bloop/": true,
